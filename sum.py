@@ -14,7 +14,7 @@ def sum_nums(nums):
     # YOUR CODE HERE
     sum = 0
     for num in nums:
-      sum += num
+        sum += num
     return sum
 
 
